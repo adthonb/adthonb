@@ -80,3 +80,27 @@ Current scale:
 ├── 5 production Kubernetes clusters
 ├── 36 production nodes
 └── 99.95% SLA
+```
+
+---
+
+## Currently Interested In 🌱
+
+I'm especially interested in:
+
+- Healthcare interoperability
+- Platform engineering
+- Distributed systems
+- DevSecOps
+- Cyber Security
+- High-availability systems
+- Developer experience
+- Cloud-native infrastructure
+- Backend architecture
+- Observability
+
+---
+
+## Let's Connect 🤝
+
+I'm interested in connecting with engineers, architects, and teams working on challenging infrastructure and distributed-system problems.
