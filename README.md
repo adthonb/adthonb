@@ -88,14 +88,15 @@ Current scale:
 
 I'm especially interested in:
 
+- AI Engineer
+- Cyber Security
+- Cloud-native infrastructure
 - Healthcare interoperability
 - Platform engineering
 - Distributed systems
 - DevSecOps
-- Cyber Security
 - High-availability systems
 - Developer experience
-- Cloud-native infrastructure
 - Backend architecture
 - Observability
 
