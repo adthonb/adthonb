@@ -1,30 +1,26 @@
 ## Solutions Architect / Technical Lead
-**Cloud Architecture · Kubernetes · AWS · Backend Engineering**
+Cloud Architecture · Kubernetes · AWS · Backend Engineering
 
 I design and build production systems from architecture to deployment.
 
-My work sits between **software architecture, platform engineering, DevOps, and hands-on backend development**. I currently focus on healthcare platforms, Kubernetes infrastructure, distributed systems, CI/CD, observability, and system integration.
+My work spans software architecture, platform engineering, and hands-on backend development. I currently focus on healthcare platforms, Kubernetes infrastructure, distributed systems, CI/CD, observability, and system integration.
 
-I enjoy solving infrastructure and architecture problems, but I still like writing code and building the systems myself.
-
----
-
-## About Me 🚀
-
-- 🏗️ Solutions Architect / Technical Lead with **8+ years in software engineering**
-- ☁️ **5+ years** working with Kubernetes and AWS
-- 🏥 Architected healthcare systems deployed across **14 hospitals**
-- ⚙️ Supporting **24 microservices** and approximately **1,400 users**
-- ☸️ Designed and operated **5 production Kubernetes clusters / 36 production nodes**
-- 📊 Built observability across **48 production + UAT Kubernetes nodes**
-- 🔄 Built GitOps/CI/CD automation reducing deployment time from **~5 min → ~50 sec**
-- 🔌 Built healthcare integrations using **HL7, MLLP, PACS, and LIS**
-- 🛠️ Still hands-on with backend development, infrastructure, automation, and debugging
-- 🌏 Based in Thailand and open to remote opportunities
+I enjoy solving infrastructure and architecture problems, but I still write code and build systems myself.
 
 ---
 
-## Technology Stack 🧰
+## About Me
+
+- 8+ years in software engineering; 5+ years with Kubernetes and AWS
+- Architected healthcare systems deployed across 14 hospitals
+- Built GitOps and CI/CD automation that cut deployment time from ~5 minutes to ~50 seconds
+- Built healthcare integrations using HL7, MLLP, PACS, and LIS
+- Hands-on with backend development, infrastructure, automation, and debugging
+- Based in Thailand, open to remote opportunities
+
+---
+
+## Technology Stack
 
 ### Cloud & Platform
 
@@ -65,9 +61,9 @@ I enjoy solving infrastructure and architecture problems, but I still like writi
 
 ---
 
-## What I Work On 🔧
+## What I Work On
 
-### 🏥 Healthcare Platform Architecture
+### Healthcare Platform Architecture
 
 I architect a microservices-based Healthcare Information System running across on-premises and hybrid-cloud Kubernetes environments.
 
@@ -84,24 +80,15 @@ Current scale:
 
 ---
 
-## Currently Interested In 🌱
+## Current Interests
 
-I'm especially interested in:
-
-- AI Engineer
-- Cyber Security
-- Cloud-native infrastructure
-- Healthcare interoperability
-- Platform engineering
-- Distributed systems
-- DevSecOps
-- High-availability systems
-- Developer experience
-- Backend architecture
-- Observability
+- AI engineering and LLM tooling
+- DevSecOps and cloud security
+- High-availability distributed systems
+- Developer experience (DevEx)
 
 ---
 
-## Let's Connect 🤝
+## Let's Connect
 
 I'm interested in connecting with engineers, architects, and teams working on challenging infrastructure and distributed-system problems.
