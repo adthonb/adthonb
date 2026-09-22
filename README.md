@@ -47,7 +47,7 @@ I design, automate, and operate production infrastructure and internal developer
 
 ---
 
-## What I Work On
+## I Work On
 
 ### Healthcare Platform Architecture
 
@@ -61,9 +61,3 @@ Production microservices infrastructure powering Healthcare Information Systems 
 ├── 36 production nodes
 └── 99.95% SLA
 ```
-
----
-
-## Let's Connect
-
-I'm open to Technical Lead, Platform Engineer, and Senior DevOps roles, particularly in healthcare and AI infrastructure.
