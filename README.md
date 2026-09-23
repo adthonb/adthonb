@@ -1,4 +1,4 @@
-## Technical Lead / Senior DevOps & Platform Engineer
+## Solutions Architect / Senior DevOps & Platform Engineer
 **Hybrid Cloud (AWS & On-Prem) · Kubernetes · Backend Engineering · Healthcare Systems**
 
 I design, automate, and operate production infrastructure and internal developer platforms. Find more about me at [Website](https://adthonb.github.io)
