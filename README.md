@@ -54,10 +54,10 @@ I design, automate, and operate production infrastructure and internal developer
 Production microservices infrastructure powering Healthcare Information Systems across hybrid-cloud and on-premises Kubernetes clusters:
 
 ```text
-14 hospitals
+15 hospitals
 ├── 24 microservices
 ├── ~1,400 daily users
-├── 5 production Kubernetes clusters (AWS EKS & on-prem)
+├── 5 production Kubernetes clusters (GDCC & on-prem)
 ├── 36 production nodes
 └── 99.95% SLA
 ```
