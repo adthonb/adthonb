@@ -18,15 +18,16 @@ I design, automate, and operate production infrastructure and internal developer
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=%23fff&color=%23D24939)
 
 **Observability & Security**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800)
+![Thanos](https://img.shields.io/badge/Thanos-6D41FF?logo=thanos&color=%236D41FF)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
-![Thanos](https://img.shields.io/badge/Thanos-6D41FF?logo=thanos&color=%236D41FF)
+![HAProxy](https://img.shields.io/badge/HAProxy-26405f)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&color=%23000000)
 ![OpenID](https://img.shields.io/badge/OpenID-FFFFFF?logo=openid&color=%23FFFFFF)
-
-**Also working with:** Loki · HAProxy · OAuth2 Proxy · pgBackRest
+![OAuth2 Proxy](https://img.shields.io/badge/OAuth2_Proxy-06e68f)
 
 **Languages & Framework**
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
@@ -40,6 +41,7 @@ I design, automate, and operate production infrastructure and internal developer
 
 **Data & Messaging**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![pgBackRest](https://img.shields.io/badge/pgBackRest-1f1f1f)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
