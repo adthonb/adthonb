@@ -9,6 +9,7 @@ I design, automate, and operate production infrastructure and internal developer
 
 **Cloud, Platform & IaC**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=Helm&color=%230F1689)
